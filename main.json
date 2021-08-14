@@ -1,0 +1,38 @@
+{
+    "user": [
+        {
+            "username": "rohini",
+            "passward": "Rohini@123",
+            "profile": {
+                "Descreption": "Hello my name is Rohini, i Love book reading",
+                "dob": "28,Aug,2002",
+                "Hobbis": "Reading Book",
+                "Gender": "Female"
+            }
+        },
+        {
+            "username": "roya",
+            "passward": "roya@123",
+            "profile": {
+                "Descreption": "love adventure",
+                "dob": "28,Aug,2002",
+                "Hobbis": "Reading Book",
+                "Gender": "Female"
+            }
+        },
+        {
+            "username": "amrita",
+            "passward": "amoo@112",
+            "profile": {
+                "Descreption": "love travlling",
+                "dob": "04,Aug,2002",
+                "Hobbis": "writing poems",
+                "Gender": "Female"
+            }
+        },
+        {
+            "username": "Yash Labade",
+            "passward": "Yash@123"
+        }
+    ]
+}
