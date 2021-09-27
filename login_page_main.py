@@ -42,11 +42,11 @@ def sign_up():
                         with open("main.json","w") as w:
                             json.dump(all_data,w,indent=4)
                 else:
-                    print("atlist password should contain one apper charcter")
+                    print("atlist password should contain one apper charcter....")
             else:
-                print("atlist password should contain one number")                
+                print("atlist password should contain one number...")                
         else:
-            print("atlist password should contain one special charcter :-")
+            print("atlist password should contain one special charcter....")
 def login():
     username_l=input("enter the user name for login :")
     password_l=input("enter the password for login :")
